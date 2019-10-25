@@ -44,11 +44,19 @@ Steps in building the system:
 7.7.1  Intepreting Model 4
 
 7.8  Model 5 : Gradient Boosting Classifier
+
 8  Model Benchmarks
+
 8.1  Optimizing for Recall
+
 8.2  Plotting the AUC ROC Curve of the best model
+
 8.3  Plotting the distribution of probabilities
+
 9  Visualizing the most frequent words in each subreddit
+
 10  Export the best Model
+
 11  Running the final model on Test set
+
 12  Conclusion
